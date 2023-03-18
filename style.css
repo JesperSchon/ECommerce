@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    margin-bottom: 1rem;
+}
+
+footer {
+    margin-top: 1rem;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+}
